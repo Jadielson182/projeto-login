@@ -1,0 +1,33 @@
+.campo {
+    background-color: #5f2c82;
+    margin: 7px;
+    border-radius: 10px;
+    height: 40px;
+}
+.campo2 {
+    background-color: #8feeebfa;
+    border-radius: 8px;
+    width: 92%;
+    height: 90%;
+    
+}
+
+.campo3 {
+    width: 42vw;
+    height: 5vh;
+    margin: 5px;
+    border-radius: 10px;
+    display: block;
+    
+}
+input.campo2:hover {
+    background-color: white;
+    border: 2px solid black;
+}
+div#formulario > form > a {
+    color: #49a09d;
+    border: 2px solid #49a09d;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
